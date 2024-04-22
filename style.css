@@ -1,0 +1,58 @@
+h1{
+   color: blue;
+}
+
+p{
+   text-align: justify;
+}
+
+#about{
+   color: burlywood;
+   text-align: center;
+   font-style: inherit;
+   background-color: beige;
+}
+
+*{
+   background-color:gainsboro;
+}
+
+#privacy {
+   color: blueviolet;
+   text-align: center;
+   font-size: small;
+   background-color: azure;
+}
+
+#cv{
+   color:black;
+   background-color: antiquewhite;
+   text-align: center;
+   font-weight: bolder;
+}
+
+
+.introduction{
+   color:darkblue;
+}
+
+.cvheading{
+   background-color:lightskyblue;
+}
+
+#jobs{
+color: blue;
+}
+
+#contact{
+   text-align: center;
+   color: black;
+   background-color: bisque;
+}
+
+.contact{
+   text-align: center;
+   color: darkmagenta;
+   font-size: larger;
+}
+
